@@ -1,0 +1,14 @@
+$blue: #247eb2;
+$blue_hover: #259add;
+$main: #212121;
+$gray_bg: #f3f3f3;
+$gray: #a0a4bc;
+$red: #d60000;
+$V: Vollkorn, sans-serif; 
+$N: NotoSerif, sans-serif; 
+
+@mixin flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

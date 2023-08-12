@@ -1,0 +1,15 @@
+@mixin font($fname, $fstyle, $fweight, $furl){
+	@font-face {
+		font-family: $fname;
+		font-style: $fstyle;
+		font-weight: $fweight;
+		font-display: swap;
+		src: url($furl) format('truetype');
+	}
+}
+
+
+@include font('NotoSerif', normal, 400, '../fonts/NotoSerif-Regular.ttf');
+@include font('NotoSerif', normal, 700, '../fonts/NotoSerif-Bold.ttf');
+@include font('Vollkorn', normal, 400, '../fonts/Vollkorn-Regular.ttf');
+@include font('Vollkorn', normal, 700, '../fonts/Vollkorn-Bold.ttf');

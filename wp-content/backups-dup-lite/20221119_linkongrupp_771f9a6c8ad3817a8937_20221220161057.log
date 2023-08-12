@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 20.12.2022 16:12
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.1
+WORDPRESS:	6.1.1
+PHP INFO:	7.4.5 | SAPI: apache2handler
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (1536M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20221119_linkongrupp_771f9a6c8ad3817a8937_20221220161057_database.sql
+SQL FILE SIZE: 2.01MB (2104029)
+SQL FILE TIME: 2022-12-20 16:12:50
+SQL RUNTIME: 6.86 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/OpenServer/domains/linkon-group-wp
+ARCHIVE FILE: 20221119_linkongrupp_771f9a6c8ad3817a8937_20221220161057_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	201.4MB
+STATS:	Dirs 3,466 | Files 22,438
+SQL ADDED: 20221119_linkongrupp_771f9a6c8ad3817a8937_20221220161057_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 25904
+    [filename] => C:\OpenServer\domains\linkon-group-wp\wp-content\backups-dup-lite\tmp\20221119_linkongrupp_771f9a6c8ad3817a8937_20221220161057_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 25903
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 77.32MB
+ARCHIVE RUNTIME: 302.10 sec.
+MEMORY STACK: 18MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 2.01MB
+INSTALLER FILE: 73.35KB
+ARCHIVE FILE: 79.45MB 
+EXPECTED FILE/DIRECTORY COUNT: 25,904
+ACTUAL FILE/DIRECTORY COUNT: 25,903
+ТЕСТ ЛОГИКИ АРХИВА: Пройден
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 313.50 sec.
+PEAK PHP MEMORY USED: 24MB
+DONE PROCESSING => 20221119_linkongrupp 20.12.2022 16:17
+
